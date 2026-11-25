@@ -1,0 +1,12 @@
+bin/
+data/
+logs/
+dist/
+*.exe
+*.dll
+*.pdb
+*.bak
+*.old
+*.user
+*.suo
+.vs/
